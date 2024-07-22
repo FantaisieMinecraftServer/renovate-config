@@ -17,7 +17,7 @@
     },
     "timezone": "Asia/Tokyo",
     "schedule": [
-        "after 9:00 before 24:00"
+        "after 9:00 before 00:00"
     ],
     "labels": [
         "dependencies"
