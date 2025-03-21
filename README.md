@@ -1,13 +1,13 @@
-# <div align="center">FantaisieMinecraftServer/renovate-config</div>
+# <div align="center">AlcarisMinecraftServer/renovate-config</div>
 
-[FantaisieMinecraftServer](https://github.com/FantaisieMinecraftServer)で使われている、[renovate](https://github.com/renovatebot/renovate) 用の config です
+[AlcarisMinecraftServer](https://github.com/AlcarisMinecraftServer)で使われている、[renovate](https://github.com/renovatebot/renovate) 用の config です
 
 ## 使用方法
 
 ```json:renovate.json
 {
   "extends": [
-    "github>FantaisieMinecraftServer/renovate-config"
+    "github>AlcarisMinecraftServer/renovate-config"
   ]
 }
 ```
